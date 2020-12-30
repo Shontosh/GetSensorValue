@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get Sensor Value</string>
+    <string name="sensor_light">Light Sensor : %1$.2f</string>
+    <string name="sensor_proximity">Proximity Sensor : %1$.2f</string>
+    <string name="sensor_accelerometer">Accelerometer Sensor : %1$.2f</string>
+    <string name="sensor_gyroscope">Gyroscope Sensor : %1$.2f</string>
+    <string name="error">No Sensor</string>
+</resources>
